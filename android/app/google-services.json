@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425056192948",
+    "project_id": "ai-tools-hunt",
+    "storage_bucket": "ai-tools-hunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425056192948:android:69cd7e0028b62768a30ae1",
+        "android_client_info": {
+          "package_name": "com.ai.tools.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425056192948-cmvruefu129d9h47ra7nb8vf817db67h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtgQsuwrIHoYFZb050wsTCGqJacDEi68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425056192948-cmvruefu129d9h47ra7nb8vf817db67h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
